@@ -1,2 +1,2 @@
 # Text-Summarizer
-using scrapy and web core
+using scrapy and web core em 
